@@ -45,11 +45,8 @@ public class Assignment_2 {
           con.close();
         } catch (ClassNotFoundException e) {
           System.out.println("SQL Driver Not Found");
+          }
           
         }
         
-        
       }
-
-     
-    }
